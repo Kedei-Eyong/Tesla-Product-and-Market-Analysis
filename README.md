@@ -22,7 +22,7 @@ This repository provides a critical analysis of Tesla Inc., revealing key insigh
 
 *'Tesla Sales Data': Dataset used for the analysis*
 
-*'Tesla Model Analysis': PowerBI Dashboard containing a visual summary of productand market trends*
+*'Tesla Model Analysis': PowerBI Dashboard containing a visual summary of product and market trends*
 
 *'Tesla product and Market Performance Report': Report summarizing findings of the analysis*
 
